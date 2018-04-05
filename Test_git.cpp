@@ -13,4 +13,5 @@ int main ()
         cout << "I repeat: " << str << '\n';
         // Another comment
     } while (str != "goodbye");
+    // Just for verifying
 }
