@@ -10,6 +10,7 @@ int main ()
         cout << "Enter text: ";
         getline (cin,str);
         cout << "You entered: " << str << '\n';
+        // Changed in local
         cout << "I repeat: " << str << '\n';
         // Another comment
     } while (str != "goodbye");
