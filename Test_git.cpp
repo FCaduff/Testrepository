@@ -10,5 +10,6 @@ int main ()
         cout << "Enter text: ";
         getline (cin,str);
         cout << "You entered: " << str << '\n';
+        cout << "I repeat: " << str << '\n';
     } while (str != "goodbye");
 }
