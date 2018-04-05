@@ -8,6 +8,7 @@ int main ()
     string str;
     do {
         cout << "Enter text: ";
+        //Changed in remote
         getline (cin,str);
         cout << "You entered: " << str << '\n';
         cout << "I repeat: " << str << '\n';
