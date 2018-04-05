@@ -7,7 +7,7 @@ int main ()
 {
     string str; //Comment from master
     do {
-        cout << "Text: ";
+        cout << "Enter: ";
         //Changed in remote
         getline (cin,str);
         cout << "You entered: " << str << '\n';
