@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-// simple command
+// simple comment
 int main ()
 {
     string str;
@@ -11,5 +11,6 @@ int main ()
         getline (cin,str);
         cout << "You entered: " << str << '\n';
         cout << "I repeat: " << str << '\n';
+        // Another comment
     } while (str != "goodbye");
 }
