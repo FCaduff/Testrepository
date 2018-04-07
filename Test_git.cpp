@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-// Testbranch2
 int main ()
 {
     string str;
