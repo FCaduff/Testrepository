@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+// Does git status see that?
 
 // simple comment
 int main ()
