@@ -9,6 +9,9 @@ int main ()
     do {
         cout << "Enter: ";
         getline (cin,str);
+        
+        //this is the test entry of Simon
+        
         cout << "You entered: " << str << '\n';
         cout << "I repeat: " << str << '\n';
     } while (str != "goodbye");
