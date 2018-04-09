@@ -9,6 +9,7 @@ int main ()
     do {
         cout << "Enter: ";
         getline (cin,str);
+        // More changes
         cout << "You entered: " << str << '\n';
         cout << "I repeat: " << str << '\n';
     } while (str != "goodbye");
