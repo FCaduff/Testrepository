@@ -5,6 +5,7 @@ using namespace std;
 int main ()
 {
     string str;
+    // Some changes
     do {
         cout << "Enter: ";
         getline (cin,str);
