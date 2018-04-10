@@ -14,4 +14,6 @@ int main ()
         cout << "You entered: " << str << '\n';
         cout << "I repeat: " << str << '\n';
     } while (str != "goodbye");
+    
+    //test test am 10.04.18
 }
